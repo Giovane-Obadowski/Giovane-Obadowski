@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá, eu sou o Giovane! 👋
 
-<!--
-**Giovane-Obadowski/Giovane-Obadowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**
+🔄 Em transição de carreira — escolhi a tecnologia com propósito
+📍 Portão, Rio Grande do Sul — disponível para estágio remoto
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Aos 31 anos tomei uma decisão que mudou tudo: entrar de cabeça no mundo da tecnologia.
+Estou no início da jornada, mas com base sólida em fundamentos e muita determinação
+para crescer nas áreas que mais me fascinam.
+
+---
+
+## 🎯 Áreas de Interesse
+
+🔐 Cyber Security
+🤖 Inteligência Artificial
+🧪 QA / Testes de Software
+📊 Ciência de Dados
+
+---
+
+## 📚 Atualmente estudando
+
+- Ciência da Computação — 1º Semestre
+- Redes de Computadores
+- Sistemas Operacionais
+- Arquitetura e Organização de Computadores
+- Gestão de Projetos
+
+---
+
+## 🛠️ Próximos passos
+
+- [ ] Python
+- [ ] Git avançado
+- [ ] TryHackMe (Cyber Security)
+- [ ] Primeira certificação
+
+---
+
+## 📫 Me encontre também em
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Giovane-Obadowski)
+
+---
+
+⚡ *"Recomeçar com foco não é fraqueza — é estratégia."*## Hi there 👋
